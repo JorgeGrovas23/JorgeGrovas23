@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JorgeGrovas23
+- 👀 I’m interested in blockchain development, Defi, NFTs, AI, process controls.
+- 🌱 I’m currently learning  currently working on different projects trying to develop a ticketing dapp in learning through Freecodecamp videos provided by the Patrick Collins. 
+- 💞️ I’m looking to collaborate on any project that would involve being part of the web3 community
+- 📫 How to reach me jorge.grovas23@gmail.com.
